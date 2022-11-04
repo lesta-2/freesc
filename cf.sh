@@ -6,11 +6,11 @@ MYIP=$(wget -qO- icanhazip.com);
 echo "Script By Wisanggeni"
 clear
 apt install jq curl -y
-DOMAIN=installer.my.id
+DOMAIN=rpj-dapon.com
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
-SUB_DOMAIN=${sub}.installer.my.id
-CF_ID=senowahyu62@gmail.com
-CF_KEY=84570683099becbeb0f04d8086ce6f309c56c
+SUB_DOMAIN=${sub}.rpj-dapon.com
+CF_ID=dapon58211@gmail.com
+CF_KEY=64d6b5564aa2ace9bbdd1aae1d1f638f9c1f4
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
 echo "Updating DNS for ${SUB_DOMAIN}..."
