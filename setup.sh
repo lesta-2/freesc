@@ -36,7 +36,7 @@ wget https://raw.githubusercontent.com/lesta-2/freesc/main/sodosok.sh && chmod +
 #installwg
 wget https://raw.githubusercontent.com/lesta-2/freesc/main/wg.sh && chmod +x wg.sh && screen -S wg ./wg.sh
 #install v2ray
-wget https://raw.githubusercontent.com/lesta-2/freesc/main/ins-vt.sh && chmod +x ins-vt.sh && screen -S v2ray ./ins-vt.sh
+wget https://raw.githubusercontent.com/lesta-2/freesc/main/ins-xary.sh && chmod +x ins-xray.sh && screen -S xray ./ins-xray.sh
 #install L2TP
 wget https://raw.githubusercontent.com/lesta-2/freesc/main/ipsec.sh && chmod +x ipsec.sh && screen -S ipsec ./ipsec.sh
 wget https://raw.githubusercontent.com/lesta-2/freesc/main/set-br.sh && chmod +x set-br.sh && ./set-br.sh
@@ -51,7 +51,7 @@ rm -f /root/sstp.sh
 rm -f /root/wg.sh
 rm -f /root/ss.sh
 rm -f /root/ssr.sh
-rm -f /root/ins-vt.sh
+rm -f /root/ins-xray.sh
 rm -f /root/ipsec.sh
 rm -f /root/set-br.sh
 rm -f /root/geo.sh
