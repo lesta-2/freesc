@@ -52,4 +52,4 @@ Langsung Salin Saja Semua Command Lalu Paste Ke Server
    
 
 **Telegram**
-[彡HBT彡 Wisang](https://t.me/彡HBT彡 Wisang)
+[彡HBT彡 Wisang](https://t.me/@Wisanggeni58)
