@@ -1,9 +1,5 @@
 
-![FOTO](https://github.com/lesta-2/freesc/raw/main/Screenshot%202021-11-21%2019:18:49.png)
-
-![FOTO](https://github.com/lesta-2/freesc/raw/main/Screenshot%202021-11-21%2019:19:29.png)
-
-**For Debian and Ubuntu** 
+!#**For Debian and Ubuntu** 
 
 
 __Command To Install__
@@ -54,14 +50,6 @@ Langsung Salin Saja Semua Command Lalu Paste Ke Server
 - Auto Reboot Time
 
    
-  
-
 
 **Telegram**
-[Senovpn](https://t.me/senovpn)
-
-
-
-
-Donate? **Via Dana** 
-082220155143
+[彡HBT彡 Wisang](https://t.me/彡HBT彡 Wisang)
